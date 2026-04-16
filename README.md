@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Store Ratings App (Express + PostgreSQL + Prisma + React)
 
 A full‑stack reference implementation for the "FullStack Intern Coding Challenge - V1.1".
@@ -87,3 +88,7 @@ See inline comments in backend source for details.
 - All core validations implemented per the spec.
 - Tables in the frontend are sortable; filters/search are supported via query params.
 - This is a reference. You can extend UI styling, pagination UX, and tests as needed.
+=======
+# store-rating
+A full-stack web application where users can sign up, browse stores, and rate them . Built with React (Vite) on the frontend and Node.js (Express + Prisma + PostgreSQL) on the backend, the app supports role-based access for admins, users, and store owners.
+>>>>>>> af5536afcee11cb720858cac8f44a35087cb4205
